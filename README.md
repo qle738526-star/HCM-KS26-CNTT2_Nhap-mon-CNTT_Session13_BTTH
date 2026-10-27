@@ -1,0 +1,6 @@
+# HCM-KS26-CNTT2_Nhap-mon-CNTT_Session13_BTTH
+Dùng một dòng lệnh duy nhất trong powershell để tạo thư mục gốc smartfarm-system cùng 4 thư mục con:
+-mkdir smartfarm-system\docs, smartfarm-system\backup, smartfarm-system\scripts, smartfarm-system\Data
+
+chức năng 2:
+- Tạo một thư mục ps1
